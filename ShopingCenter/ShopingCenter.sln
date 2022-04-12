@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Infrastructu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Configuration", "ShopManagement.Configuration\ShopManagement.Configuration.csproj", "{1698BE92-E504-4C18-BD07-159984DA8562}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceHost", "ServiceHost\ServiceHost.csproj", "{0BAA5844-2CFB-4A37-85A1-732C6DAEC01B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{1698BE92-E504-4C18-BD07-159984DA8562}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1698BE92-E504-4C18-BD07-159984DA8562}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1698BE92-E504-4C18-BD07-159984DA8562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BAA5844-2CFB-4A37-85A1-732C6DAEC01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAA5844-2CFB-4A37-85A1-732C6DAEC01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAA5844-2CFB-4A37-85A1-732C6DAEC01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAA5844-2CFB-4A37-85A1-732C6DAEC01B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
