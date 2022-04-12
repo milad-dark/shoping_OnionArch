@@ -1,0 +1,17 @@
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\bin\Debug\net5.0\ShopManagement.Domain.deps.json
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\bin\Debug\net5.0\ShopManagement.Domain.dll
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\bin\Debug\net5.0\ref\ShopManagement.Domain.dll
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\bin\Debug\net5.0\ShopManagement.Domain.pdb
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\bin\Debug\net5.0\0_Framework.dll
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\bin\Debug\net5.0\0_Framework.pdb
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.AssemblyReference.cache
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\obj\Debug\net5.0\ShopManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\obj\Debug\net5.0\ShopManagement.Domain.AssemblyInfoInputs.cache
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\obj\Debug\net5.0\ShopManagement.Domain.AssemblyInfo.cs
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.CoreCompileInputs.cache
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.CopyComplete
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\obj\Debug\net5.0\ShopManagement.Domain.dll
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\obj\Debug\net5.0\ref\ShopManagement.Domain.dll
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagment.Domain\obj\Debug\net5.0\ShopManagement.Domain.pdb

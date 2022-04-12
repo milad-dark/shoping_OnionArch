@@ -1,0 +1,12 @@
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\0_Framework\bin\Debug\net5.0\0_Framework.deps.json
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\0_Framework\bin\Debug\net5.0\0_Framework.dll
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\0_Framework\bin\Debug\net5.0\ref\0_Framework.dll
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\0_Framework\bin\Debug\net5.0\0_Framework.pdb
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.csproj.AssemblyReference.cache
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfoInputs.cache
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfo.cs
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.csproj.CoreCompileInputs.cache
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.dll
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\ref\0_Framework.dll
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.pdb
