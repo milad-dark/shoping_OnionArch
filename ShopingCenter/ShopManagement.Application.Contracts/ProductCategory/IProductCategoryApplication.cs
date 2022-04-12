@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
+using _0_Framework.Application;
 
 namespace ShopManagement.Application.Contracts.ProductCategory
 {
     public interface IProductCategoryApplication
     {
-        void Create(CreateProductCategory command);
-        void Edit(EditProductCategory command);
-        Domain.ProductCategoryAgg.ProductCategory GetDetials(long id);
+        OprationResult Create(CreateProductCategory command);
+        OprationResult Edit(EditProductCategory command);
+        EditProductCategory GetDetials(long id);
         List<ProductCategoryViewModel> Search(ProductCategorySearchModel searchModel);
     }
 }
