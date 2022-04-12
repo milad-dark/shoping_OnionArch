@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace ShopManagement.Application
 {
-    internal class ProductCategoryApplication : IProductCategoryApplication
+    public class ProductCategoryApplication : IProductCategoryApplication
     {
         private readonly IProductCategoryRepository _productCategoryRepository;
 

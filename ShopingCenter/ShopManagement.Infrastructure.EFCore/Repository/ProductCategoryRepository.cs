@@ -1,39 +1,18 @@
-﻿using ShopManagement.Application.Contracts.ProductCategory;
+﻿using _0_Framework.Infrastructure;
+using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Domain.ProductCategoryAgg;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Linq.Expressions;
 
 namespace ShopManagement.Infrastructure.EFCore.Repository
 {
-    public class ProductCategoryRepository : IProductCategoryRepository
+    public class ProductCategoryRepository : RepositoryBase<long, ProductCategory>, IProductCategoryRepository
     {
         private readonly ShopContext _context;
 
-        public ProductCategoryRepository(ShopContext context)
+        public ProductCategoryRepository(ShopContext context) : base(context)
         {
             _context = context;
-        }
-
-        public void Create(ProductCategory entity)
-        {
-            _context.productCategories.Add(entity);
-        }
-
-        public bool Exists(Expression<Func<ProductCategory, bool>> expression)
-        {
-            return _context.productCategories.Any(expression);
-        }
-
-        public ProductCategory Get(long id)
-        {
-            return _context.productCategories.Find(id);
-        }
-
-        public List<ProductCategory> GetAll()
-        {
-            return _context.productCategories.ToList();
         }
 
         public EditProductCategory GetDetails(long id)
@@ -50,11 +29,6 @@ namespace ShopManagement.Infrastructure.EFCore.Repository
                 MetaDescription = x.MetaDescription,
                 Slug = x.Slug,
             }).FirstOrDefault(x => x.Id == id);
-        }
-
-        public void SaveChanges()
-        {
-            _context.SaveChanges();
         }
 
         public List<ProductCategoryViewModel> Search(ProductCategorySearchModel searchModel)
