@@ -1,7 +1,6 @@
 ﻿using _0_Framework.Application;
 using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Domain.ProductCategoryAgg;
-using System;
 using System.Collections.Generic;
 
 namespace ShopManagement.Application
@@ -27,8 +26,8 @@ namespace ShopManagement.Application
 
         public OprationResult Create(CreateProductCategory command)
         {
-            var opration = new  OprationResult();
-            if (_productCategoryRepository.Exists(x=>x.Name == command.Name))
+            var opration = new OprationResult();
+            if (_productCategoryRepository.Exists(x => x.Name == command.Name))
                 return opration.Failed("امکان ثبت رکورد تکراری وجود ندارد. لطفا مجدد تلاش تمایید.");
 
             var slug = command.Slug.Slugify();
@@ -47,9 +46,9 @@ namespace ShopManagement.Application
 
             if (productCategory == null)
                 return opration.Failed("رکورد با اطلاعات درخواست شده یافت نشد. لطفا مجدد تلاش نمایید.");
-            if(_productCategoryRepository.Exists(x=>x.Name == command.Name && x.Id != command.Id))
+            if (_productCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id))
                 return opration.Failed("امکان ثبت رکورد تکراری وجود ندارد. لطفا مجدد تلاش تمایید.");
-            
+
             var slug = command.Slug.Slugify();
             productCategory.Edit(command.Name, command.Description, command.Picture,
                 command.PictureAlt, command.PictureTitle, command.Keywords, command.MetaDescription, slug);

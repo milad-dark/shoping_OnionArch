@@ -5,7 +5,6 @@ using ShopManagement.Application.Contracts.ProductCategory;
 using ShopManagement.Domain.ProductCategoryAgg;
 using ShopManagement.Infrastructure.EFCore;
 using ShopManagement.Infrastructure.EFCore.Repository;
-using System;
 
 namespace ShopManagement.Configuration
 {
