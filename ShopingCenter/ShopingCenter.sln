@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Application.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Application", "ShopManagement.Application\ShopManagement.Application.csproj", "{6E18C288-A2BB-4E76-BA52-877C641F799C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SM.Infrastructure", "SM.Infrastructure", "{CC637602-D5BA-4332-B75D-C7A44A45F9EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopManagement.Infrastructure.EFCore", "ShopManagement.Infrastructure.EFCore\ShopManagement.Infrastructure.EFCore.csproj", "{405DF0F7-91BB-4751-A076-348E8279392A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,10 @@ Global
 		{6E18C288-A2BB-4E76-BA52-877C641F799C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E18C288-A2BB-4E76-BA52-877C641F799C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E18C288-A2BB-4E76-BA52-877C641F799C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{405DF0F7-91BB-4751-A076-348E8279392A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405DF0F7-91BB-4751-A076-348E8279392A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405DF0F7-91BB-4751-A076-348E8279392A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405DF0F7-91BB-4751-A076-348E8279392A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,6 +57,8 @@ Global
 		{936C3006-8162-43CD-9ABF-4996DAA783A0} = {811AAF46-0D62-4C69-BE6C-494191D40B20}
 		{9BCB355C-3820-4209-9804-30510E5A2283} = {936C3006-8162-43CD-9ABF-4996DAA783A0}
 		{6E18C288-A2BB-4E76-BA52-877C641F799C} = {936C3006-8162-43CD-9ABF-4996DAA783A0}
+		{CC637602-D5BA-4332-B75D-C7A44A45F9EA} = {811AAF46-0D62-4C69-BE6C-494191D40B20}
+		{405DF0F7-91BB-4751-A076-348E8279392A} = {CC637602-D5BA-4332-B75D-C7A44A45F9EA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6038039C-46E5-4E0E-A40C-8916B2CE6776}
