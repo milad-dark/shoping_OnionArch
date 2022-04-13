@@ -8,6 +8,10 @@ namespace ShopManagement.Infrastructure.EFCore
     {
         public DbSet<ProductCategory> productCategories { get; set; }
 
+        public ShopContext(DbContextOptions<ShopContext> options) : base(options)
+        {
+
+        }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             var assembly = typeof(ProductCategoryMapping).Assembly;
