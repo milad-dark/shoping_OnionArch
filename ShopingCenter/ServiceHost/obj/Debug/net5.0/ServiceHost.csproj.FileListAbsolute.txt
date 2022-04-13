@@ -160,3 +160,4 @@ F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Ra
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\_ViewImports.cshtml.g.cs
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\_ViewStart.cshtml.g.cs
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\ProductCategory\Index.cshtml.g.cs
