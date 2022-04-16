@@ -164,3 +164,6 @@ F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Ra
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\ProductCategory\Create.cshtml.g.cs
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\ProductCategory\Edit.cshtml.g.cs
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Products\Create.cshtml.g.cs
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Products\Edit.cshtml.g.cs
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Products\Index.cshtml.g.cs

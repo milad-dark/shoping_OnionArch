@@ -14,7 +14,7 @@ namespace ShopManagement.Application
             _productCategoryRepository = productCategoryRepository;
         }
 
-        public EditProductCategory GetDetials(long id)
+        public EditProductCategory GetDetails(long id)
         {
             return _productCategoryRepository.GetDetails(id);
         }
@@ -55,6 +55,11 @@ namespace ShopManagement.Application
             _productCategoryRepository.SaveChanges();
 
             return opration.Succedded();
+        }
+
+        public List<ProductCategoryViewModel> GetProductCategories()
+        {
+            return _productCategoryRepository.GetProductCategories();
         }
     }
 }
