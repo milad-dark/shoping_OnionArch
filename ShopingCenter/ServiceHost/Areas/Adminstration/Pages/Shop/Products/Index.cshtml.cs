@@ -31,7 +31,11 @@ namespace ServiceHost.Areas.Adminstration.Pages.Shop.Products
 
         public IActionResult OnGetCreate()
         {
-            return Partial("./Create", new CreateProduct());
+            var command = new CreateProduct
+            {
+                Categories = _productCategoryApplication.GetProductCategories()
+            };
+            return Partial("./Create", command);
         }
 
         public JsonResult OnPostCreate(CreateProduct command)
@@ -43,6 +47,7 @@ namespace ServiceHost.Areas.Adminstration.Pages.Shop.Products
         public IActionResult OnGetEdit(long id)
         {
             var product = _productApplication.GetDetails(id);
+            product.Categories = _productCategoryApplication.GetProductCategories();
             return Partial("Edit", product);
         }
 
@@ -50,6 +55,16 @@ namespace ServiceHost.Areas.Adminstration.Pages.Shop.Products
         {
             var resualt = _productApplication.Edit(command);
             return new JsonResult(resualt);
+        }
+
+        public void OnGetNotInStock(long id)
+        {
+            _productApplication.NotIsStock(id); 
+        }
+
+        public void OnGetIsInStock(long id)
+        {
+            _productApplication.IsStock(id);
         }
     }
 }
