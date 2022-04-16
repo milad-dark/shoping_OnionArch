@@ -1,23 +1,23 @@
 ﻿namespace _0_Framework.Application
 {
-    public class OprationResult
+    public class OperationResult
     {
         public bool IsSeccedded { get; set; }
         public string Message { get; set; }
 
-        public OprationResult()
+        public OperationResult()
         {
             IsSeccedded = false;
         }
 
-        public OprationResult Succedded(string message = "عملیات با موفقیت انجام شد")
+        public OperationResult Succedded(string message = "عملیات با موفقیت انجام شد")
         {
             IsSeccedded = true;
             Message = message;
             return this;
         }
 
-        public OprationResult Failed(string message)
+        public OperationResult Failed(string message)
         {
             IsSeccedded = false;
             Message = message;
