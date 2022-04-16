@@ -34,7 +34,7 @@ namespace ServiceHost.Areas.Adminstration.Pages.Shop.ProductCategory
 
         public IActionResult OnGetEdit(long id)
         {
-           var productCategory = _productCategoryApplication.GetDetials(id);
+            var productCategory = _productCategoryApplication.GetDetials(id);
             return Partial("Edit", productCategory);
         }
 
