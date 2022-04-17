@@ -2,9 +2,10 @@
 {
     public class ProductPictureViewModel
     {
-        private long Id { get; set; }
-        public string Product { get; private set; }
-        public string Picture { get; private set; }
+        public long Id { get; set; }
+        public string Product { get; set; }
+        public string Picture { get; set; }
         public string CreationDate { get; set; }
+        public long ProductId { get; set; }
     }
 }
