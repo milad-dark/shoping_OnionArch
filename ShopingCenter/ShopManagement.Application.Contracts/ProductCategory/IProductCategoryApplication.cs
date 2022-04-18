@@ -5,9 +5,10 @@ namespace ShopManagement.Application.Contracts.ProductCategory
 {
     public interface IProductCategoryApplication
     {
-        OprationResult Create(CreateProductCategory command);
-        OprationResult Edit(EditProductCategory command);
-        EditProductCategory GetDetials(long id);
+        OperationResult Create(CreateProductCategory command);
+        OperationResult Edit(EditProductCategory command);
+        EditProductCategory GetDetails(long id);
+        List<ProductCategoryViewModel> GetProductCategories();
         List<ProductCategoryViewModel> Search(ProductCategorySearchModel searchModel);
     }
 }
