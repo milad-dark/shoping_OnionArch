@@ -170,3 +170,7 @@ F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Ra
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\ProductPictures\Create.cshtml.g.cs
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\ProductPictures\Edit.cshtml.g.cs
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\ProductPictures\Index.cshtml.g.cs
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shared\_Menu.cshtml.g.cs
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Slides\Create.cshtml.g.cs
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Slides\Edit.cshtml.g.cs
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Areas\Adminstration\Pages\Shop\Slides\Index.cshtml.g.cs
