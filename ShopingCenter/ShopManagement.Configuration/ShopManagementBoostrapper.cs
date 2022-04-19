@@ -1,4 +1,5 @@
-﻿using _01_SiteQuery.Contracts.Slide;
+﻿using _01_SiteQuery.Contracts.ProductCategory;
+using _01_SiteQuery.Contracts.Slide;
 using _01_SiteQuery.Query;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
@@ -22,6 +23,7 @@ namespace ShopManagement.Configuration
         {
             services.AddTransient<IProductCategoryApplication, ProductCategoryApplication>();
             services.AddTransient<IProductCategoryRepository, ProductCategoryRepository>();
+            services.AddTransient<IProductCategoryQuery, ProductCategoryQuery>();
 
             services.AddTransient<IProductApplication, ProductApplication>();
             services.AddTransient<IProductRepository, ProductRepository>();

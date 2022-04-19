@@ -1,10 +1,7 @@
 ﻿using _01_SiteQuery.Contracts.Slide;
 using ShopManagement.Infrastructure.EFCore;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _01_SiteQuery.Query
 {
@@ -19,7 +16,7 @@ namespace _01_SiteQuery.Query
 
         public List<SlideQueryModel> GetSlides()
         {
-            return _context.Slides.Where(x=>x.IsRemoved == false).Select(x => new SlideQueryModel
+            return _context.Slides.Where(x => x.IsRemoved == false).Select(x => new SlideQueryModel
             {
                 Picture = x.Picture,
                 PictureAlt = x.PictureAlt,

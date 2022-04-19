@@ -177,3 +177,4 @@ F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Ra
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\bin\Debug\net5.0\01_SiteQuery.dll
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\bin\Debug\net5.0\01_SiteQuery.pdb
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\Slide\Default.cshtml.g.cs
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ServiceHost\obj\Debug\net5.0\Razor\Pages\Shared\Components\ProductCategory\Default.cshtml.g.cs
