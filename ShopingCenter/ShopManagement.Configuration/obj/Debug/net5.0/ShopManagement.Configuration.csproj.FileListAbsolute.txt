@@ -21,3 +21,5 @@ F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagement.Configuration\ob
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.dll
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagement.Configuration\bin\Debug\net5.0\01_SiteQuery.dll
+F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagement.Configuration\bin\Debug\net5.0\01_SiteQuery.pdb
