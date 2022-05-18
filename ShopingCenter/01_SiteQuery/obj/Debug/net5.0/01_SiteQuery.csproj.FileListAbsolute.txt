@@ -19,3 +19,24 @@ F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\0
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.dll
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\ref\01_SiteQuery.dll
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\01_SiteQuery.deps.json
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\01_SiteQuery.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\01_SiteQuery.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\0_Framework.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\ShopManagement.Domain.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\0_Framework.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\ShopManagement.Domain.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.csproj.AssemblyReference.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.AssemblyInfoInputs.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.AssemblyInfo.cs
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.csproj.CoreCompileInputs.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.csproj.CopyComplete
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\refint\01_SiteQuery.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\ref\01_SiteQuery.dll

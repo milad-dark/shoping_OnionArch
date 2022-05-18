@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ServiceHost\\ServiceHost.csproj": {}
+    "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ServiceHost\\ServiceHost.csproj": {}
   },
   "projects": {
-    "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj": {
+    "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj",
+        "projectUniqueName": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj",
         "projectName": "01_SiteQuery",
-        "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj",
-        "packagesPath": "C:\\Users\\meghlimapour\\.nuget\\packages\\",
-        "outputPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\obj\\",
+        "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj",
+        "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\meghlimapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\New Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Software\\Stimulsoft Reports 2021.4.2\\Crack\\Libs\\Reports.NetCore": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
-                "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
               }
             }
           }
@@ -63,24 +62,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj": {
+    "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj",
+        "projectUniqueName": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj",
         "projectName": "0_Framework",
-        "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj",
-        "packagesPath": "C:\\Users\\meghlimapour\\.nuget\\packages\\",
-        "outputPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\0_Framework\\obj\\",
+        "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj",
+        "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\0_Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\meghlimapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\New Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -89,7 +88,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Software\\Stimulsoft Reports 2021.4.2\\Crack\\Libs\\Reports.NetCore": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -128,24 +126,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ServiceHost\\ServiceHost.csproj": {
+    "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ServiceHost\\ServiceHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ServiceHost\\ServiceHost.csproj",
+        "projectUniqueName": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ServiceHost\\ServiceHost.csproj",
         "projectName": "ServiceHost",
-        "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ServiceHost\\ServiceHost.csproj",
-        "packagesPath": "C:\\Users\\meghlimapour\\.nuget\\packages\\",
-        "outputPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ServiceHost\\obj\\",
+        "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ServiceHost\\ServiceHost.csproj",
+        "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ServiceHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\meghlimapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\New Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -154,15 +152,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Software\\Stimulsoft Reports 2021.4.2\\Crack\\Libs\\Reports.NetCore": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {
-                "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj"
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj"
               }
             }
           }
@@ -198,6 +195,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -206,24 +209,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+    "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+        "projectUniqueName": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
         "projectName": "ShopManagement.Application.Contracts",
-        "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
-        "packagesPath": "C:\\Users\\meghlimapour\\.nuget\\packages\\",
-        "outputPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\obj\\",
+        "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\meghlimapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\New Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -232,15 +235,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Software\\Stimulsoft Reports 2021.4.2\\Crack\\Libs\\Reports.NetCore": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj"
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj"
               }
             }
           }
@@ -269,24 +271,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application\\ShopManagement.Application.csproj": {
+    "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application\\ShopManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application\\ShopManagement.Application.csproj",
+        "projectUniqueName": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application\\ShopManagement.Application.csproj",
         "projectName": "ShopManagement.Application",
-        "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application\\ShopManagement.Application.csproj",
-        "packagesPath": "C:\\Users\\meghlimapour\\.nuget\\packages\\",
-        "outputPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application\\obj\\",
+        "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application\\ShopManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\meghlimapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\New Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -295,21 +297,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Software\\Stimulsoft Reports 2021.4.2\\Crack\\Libs\\Reports.NetCore": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj"
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj"
               },
-              "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               },
-              "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj": {
-                "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj"
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj"
               }
             }
           }
@@ -338,24 +339,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {
+    "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
+        "projectUniqueName": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
         "projectName": "ShopManagement.Configuration",
-        "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
-        "packagesPath": "C:\\Users\\meghlimapour\\.nuget\\packages\\",
-        "outputPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Configuration\\obj\\",
+        "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
+        "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Configuration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\meghlimapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\New Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -364,27 +365,26 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Software\\Stimulsoft Reports 2021.4.2\\Crack\\Libs\\Reports.NetCore": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj": {
-                "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj"
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj"
               },
-              "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               },
-              "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application\\ShopManagement.Application.csproj": {
-                "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application\\ShopManagement.Application.csproj"
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application\\ShopManagement.Application.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application\\ShopManagement.Application.csproj"
               },
-              "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
-                "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
               },
-              "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj": {
-                "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj"
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj"
               }
             }
           }
@@ -419,24 +419,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+    "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+        "projectUniqueName": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
         "projectName": "ShopManagement.Infrastructure.EFCore",
-        "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
-        "packagesPath": "C:\\Users\\meghlimapour\\.nuget\\packages\\",
-        "outputPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\obj\\",
+        "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+        "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\meghlimapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\New Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -445,15 +445,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Software\\Stimulsoft Reports 2021.4.2\\Crack\\Libs\\Reports.NetCore": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj": {
-                "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj"
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj"
               }
             }
           }
@@ -498,24 +497,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj": {
+    "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj",
+        "projectUniqueName": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj",
         "projectName": "ShopManagement.Domain",
-        "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\meghlimapour\\.nuget\\packages\\",
-        "outputPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\obj\\",
+        "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\meghlimapour\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\New Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -524,18 +523,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Software\\Stimulsoft Reports 2021.4.2\\Crack\\Libs\\Reports.NetCore": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj"
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj"
               },
-              "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "F:\\Tuts Solution\\Shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }
@@ -564,7 +562,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
