@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jf91vJGfUFsygFE374g7wslpKo8kAVgqn2IEqONCdOXNSy5V60jd/BcpDbbuJMRd+IlToWz0hj+CTLQjyCag+Q==",
+  "dgSpecHash": "yKU/UFikPQP9TCJjA8dR1GLTHd70zzP6MWJVkecdgv+RmH7VEZZiTpUivBc906u3aewOX5YJzXuuVNzuCiiIiw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ServiceHost\\ServiceHost.csproj",
+  "projectFilePath": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\ServiceHost\\ServiceHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\New Server\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\New Server\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
@@ -126,8 +126,7 @@
     "C:\\Users\\New Server\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\New Server\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\New Server\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\New Server\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\New Server\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+    "C:\\Users\\New Server\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
