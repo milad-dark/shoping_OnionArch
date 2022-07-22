@@ -1,3 +1,4 @@
+using DiscountManagement.Configuration;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -20,7 +21,9 @@ namespace ServiceHost
         public void ConfigureServices(IServiceCollection services)
         {
             var connectionString = Configuration.GetConnectionString("ShopManagementDb");
+
             ShopManagementBoostrapper.Configure(services, connectionString);
+            DiscountManagmentBootstrapper.Configure(services, connectionString);
 
             services.AddRazorPages();
         }

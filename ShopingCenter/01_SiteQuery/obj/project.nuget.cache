@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AApXWL29NVukxab/zFmTSeBLEcQqk80cTdebgVTh6oJfD5RmYqpHQT+0ANGK0WQMYuNbcyAU2osY70HXFhNqUw==",
+  "dgSpecHash": "EdvbfF2gGaHUMQlWOwK33N1+WWxvRgp5gh/ffAhmROalPx1KqHl3NLx6StYucA/7gh8My9Qs9qFWoIaeD+4+hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj",
+  "projectFilePath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\New Server\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\New Server\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

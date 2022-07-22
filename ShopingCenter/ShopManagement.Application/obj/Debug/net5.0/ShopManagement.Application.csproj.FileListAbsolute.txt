@@ -36,3 +36,22 @@ D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug
 D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\refint\ShopManagement.Application.dll
 D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.pdb
 D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ref\ShopManagement.Application.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.deps.json
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\0_Framework.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\0_Framework.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.AssemblyReference.cache
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfoInputs.cache
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfo.cs
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CopyComplete
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\refint\ShopManagement.Application.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ref\ShopManagement.Application.dll

@@ -22,3 +22,15 @@ D:\Projects\shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Frame
 D:\Projects\shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\refint\0_Framework.dll
 D:\Projects\shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.pdb
 D:\Projects\shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\ref\0_Framework.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\0_Framework\bin\Debug\net5.0\0_Framework.deps.json
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\0_Framework\bin\Debug\net5.0\0_Framework.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\0_Framework\bin\Debug\net5.0\0_Framework.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.csproj.AssemblyReference.cache
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfoInputs.cache
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.AssemblyInfo.cs
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.csproj.CoreCompileInputs.cache
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\refint\0_Framework.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\0_Framework.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\0_Framework\obj\Debug\net5.0\ref\0_Framework.dll

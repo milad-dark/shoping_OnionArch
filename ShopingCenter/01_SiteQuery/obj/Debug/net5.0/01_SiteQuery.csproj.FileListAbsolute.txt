@@ -40,3 +40,24 @@ D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_Sit
 D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\refint\01_SiteQuery.dll
 D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.pdb
 D:\Projects\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\ref\01_SiteQuery.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\01_SiteQuery.deps.json
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\01_SiteQuery.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\01_SiteQuery.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\0_Framework.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\ShopManagement.Domain.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\0_Framework.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\bin\Debug\net5.0\ShopManagement.Domain.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.csproj.AssemblyReference.cache
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.AssemblyInfoInputs.cache
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.AssemblyInfo.cs
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.csproj.CoreCompileInputs.cache
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.csproj.CopyComplete
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\refint\01_SiteQuery.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\01_SiteQuery.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\01_SiteQuery\obj\Debug\net5.0\ref\01_SiteQuery.dll

@@ -1519,6 +1519,88 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "0_Framework/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.16"
+        },
+        "compile": {
+          "bin/placeholder/0_Framework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/0_Framework.dll": {}
+        }
+      },
+      "DiscountManagement.Application.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "0_Framework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DiscountManagement.Application.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DiscountManagement.Application.Contract.dll": {}
+        }
+      },
+      "DiscountManagement.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "0_Framework": "1.0.0",
+          "DiscountManagement.Application.Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DiscountManagement.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DiscountManagement.Domain.dll": {}
+        }
+      },
+      "ShopManagement.Application.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "0_Framework": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShopManagement.Application.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopManagement.Application.Contracts.dll": {}
+        }
+      },
+      "ShopManagement.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "0_Framework": "1.0.0",
+          "ShopManagement.Application.Contracts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShopManagement.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopManagement.Domain.dll": {}
+        }
+      },
+      "ShopManagement.Infrastructure.EFCore/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.16",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.16",
+          "ShopManagement.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ShopManagement.Infrastructure.EFCore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShopManagement.Infrastructure.EFCore.dll": {}
+        }
       }
     }
   },
@@ -5787,13 +5869,45 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "0_Framework/1.0.0": {
+      "type": "project",
+      "path": "../0_Framework/0_Framework.csproj",
+      "msbuildProject": "../0_Framework/0_Framework.csproj"
+    },
+    "DiscountManagement.Application.Contract/1.0.0": {
+      "type": "project",
+      "path": "../DiscountManagement.Application.Contract/DiscountManagement.Application.Contract.csproj",
+      "msbuildProject": "../DiscountManagement.Application.Contract/DiscountManagement.Application.Contract.csproj"
+    },
+    "DiscountManagement.Domain/1.0.0": {
+      "type": "project",
+      "path": "../DiscountManagment.Domain/DiscountManagement.Domain.csproj",
+      "msbuildProject": "../DiscountManagment.Domain/DiscountManagement.Domain.csproj"
+    },
+    "ShopManagement.Application.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../ShopManagement.Application.Contracts/ShopManagement.Application.Contracts.csproj",
+      "msbuildProject": "../ShopManagement.Application.Contracts/ShopManagement.Application.Contracts.csproj"
+    },
+    "ShopManagement.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ShopManagment.Domain/ShopManagement.Domain.csproj",
+      "msbuildProject": "../ShopManagment.Domain/ShopManagement.Domain.csproj"
+    },
+    "ShopManagement.Infrastructure.EFCore/1.0.0": {
+      "type": "project",
+      "path": "../ShopManagement.Infrastructure.EFCore/ShopManagement.Infrastructure.EFCore.csproj",
+      "msbuildProject": "../ShopManagement.Infrastructure.EFCore/ShopManagement.Infrastructure.EFCore.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "DiscountManagement.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.16",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.16",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.16"
+      "Microsoft.EntityFrameworkCore.Tools >= 5.0.16",
+      "ShopManagement.Infrastructure.EFCore >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -5803,11 +5917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj",
+      "projectUniqueName": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj",
       "projectName": "DiscountManagement.Infrastracture.EFCore",
-      "projectPath": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj",
+      "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj",
       "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\obj\\",
+      "outputPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5828,7 +5942,14 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagment.Domain\\DiscountManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagment.Domain\\DiscountManagement.Domain.csproj"
+            },
+            "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+              "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -42,3 +42,25 @@ D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore
 D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
 D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.genruntimeconfig.cache
 D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\ShopManagement.Infrastructure.EFCore.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.deps.json
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.runtimeconfig.json
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.runtimeconfig.dev.json
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Domain.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\0_Framework.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.AssemblyReference.cache
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfoInputs.cache
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.AssemblyInfo.cs
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.csproj.CopyComplete
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\refint\ShopManagement.Infrastructure.EFCore.dll
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ShopManagement.Infrastructure.EFCore.genruntimeconfig.cache
+C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\ShopManagement.Infrastructure.EFCore\obj\Debug\net5.0\ref\ShopManagement.Infrastructure.EFCore.dll

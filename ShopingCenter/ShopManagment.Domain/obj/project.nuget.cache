@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bkAUvRje7+n4NSkSATyparAuE23wouVLMYfAiVOSWflAcWR97u0PzonQ4yOxVaniXTzVn/NDFZe9SIOqsXnYNg==",
+  "dgSpecHash": "4glSZOnKokAH80bOJeJTvF4Z1h5bzLpB+N2t1OYDzY1mvaBQI+L0ip06dvQko7gHm+tAPKjc5+o/5uedNlttcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj",
+  "projectFilePath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\New Server\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.16\\microsoft.entityframeworkcore.5.0.16.nupkg.sha512",
     "C:\\Users\\New Server\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.16\\microsoft.entityframeworkcore.abstractions.5.0.16.nupkg.sha512",

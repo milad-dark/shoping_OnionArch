@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj": {}
+    "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj": {
+    "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj",
-        "projectName": "DiscountManagement.Infrastracture.EFCore",
-        "projectPath": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj",
+        "projectUniqueName": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj",
+        "projectName": "0_Framework",
+        "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj",
         "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\obj\\",
+        "outputPath": "C:\\Users\\New Server\\Source\\Repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,6 +48,141 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
+        "projectName": "DiscountManagement.Application.Contract",
+        "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj",
+        "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Application.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\New Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj",
+        "projectName": "DiscountManagement.Infrastracture.EFCore",
+        "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\DiscountManagement.Infrastracture.EFCore.csproj",
+        "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Infrastracture.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\New Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagment.Domain\\DiscountManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagment.Domain\\DiscountManagement.Domain.csproj"
+              },
+              "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+                "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -60,6 +195,280 @@
               "version": "[5.0.16, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagment.Domain\\DiscountManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagment.Domain\\DiscountManagement.Domain.csproj",
+        "projectName": "DiscountManagement.Domain",
+        "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagment.Domain\\DiscountManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagment.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\New Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj"
+              },
+              "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj": {
+                "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Application.Contract\\DiscountManagement.Application.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+        "projectName": "ShopManagement.Application.Contracts",
+        "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\New Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+        "projectName": "ShopManagement.Infrastructure.EFCore",
+        "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
+        "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\New Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj",
+        "projectName": "ShopManagement.Domain",
+        "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\ShopManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagment.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\New Server\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj"
+              },
+              "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",

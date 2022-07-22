@@ -533,11 +533,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj",
+      "projectUniqueName": "C:\\Users\\New Server\\Source\\Repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj",
       "projectName": "0_Framework",
-      "projectPath": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj",
+      "projectPath": "C:\\Users\\New Server\\Source\\Repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj",
       "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\0_Framework\\obj\\",
+      "outputPath": "C:\\Users\\New Server\\Source\\Repos\\shoping_OnionArch\\ShopingCenter\\0_Framework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

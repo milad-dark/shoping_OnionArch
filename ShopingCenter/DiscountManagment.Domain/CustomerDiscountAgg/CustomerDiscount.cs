@@ -11,7 +11,7 @@ namespace DiscountManagement.Domain.CustomerDiscountAgg
         public DateTime EndDate { get; private set; }
         public string Reason { get; private set; }
 
-        public CustomerDiscount(int productId, int discountRate, DateTime startDate, DateTime endDate, string reason)
+        public CustomerDiscount(long productId, int discountRate, DateTime startDate, DateTime endDate, string reason)
         {
             ProductId = productId;
             DiscountRate = discountRate;
@@ -20,7 +20,7 @@ namespace DiscountManagement.Domain.CustomerDiscountAgg
             Reason = reason;
         }
 
-        public void Edit(int productId, int discountRate, DateTime startDate, DateTime endDate, string reason)
+        public void Edit(long productId, int discountRate, DateTime startDate, DateTime endDate, string reason)
         {
             ProductId = productId;
             DiscountRate = discountRate;
