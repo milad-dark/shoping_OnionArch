@@ -5782,11 +5782,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj",
+      "projectUniqueName": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj",
       "projectName": "01_SiteQuery",
-      "projectPath": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj",
+      "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj",
       "packagesPath": "C:\\Users\\New Server\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\obj\\",
+      "outputPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5808,8 +5808,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
-              "projectPath": "C:\\Users\\New Server\\Source\\Repos\\milad-dark\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
+            "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj": {
+              "projectPath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj"
             }
           }
         }
