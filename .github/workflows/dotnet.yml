@@ -1,27 +1,27 @@
-name: .NET
-
-on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+name: build
+on: [push]
 
 jobs:
-  build:
-
+  job1:
+    name: build
     runs-on: ubuntu-latest
+    
+    steps:  
+      - task: Setup .NET 5
+        displayName: Install .NET 5
+        inputs:
+          version: 5.0.x
+          
+      - task: DotNetCoreCLI@2
+        displayName: dotnet restore
+        inputs:
+          command: restore
+          projects: ShopingCenter/ShopingCenter.sln
+          nugetConfigPath: nuget.config
 
-    steps:
-    - uses: actions/checkout@v3
-    - name: Setup .NET
-      uses: actions/setup-dotnet@v2
-      with:
-        dotnet-version: 5.0.x
-    - name: Install dependencies
-      run: dotnet restore
-    - name: Restore dependencies
-      run: dotnet restore
-    - name: Build
-      run: dotnet build --no-restore
-    - name: Test
-      run: dotnet test --no-build --verbosity normal
+    - task: DotNetCoreCLI@2
+      displayName: dotnet build
+      inputs:
+          command: build
+          projects: ShopingCenter/ShopingCenter.sln
+          arguments: --no-restore -c Release -v n
