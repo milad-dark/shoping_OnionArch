@@ -11,7 +11,7 @@ jobs:
 
     runs-on: ubuntu-latest
     env:
-      Solution_Name: ShopingCenter\ShopingCenter.sln
+      Solution_Name: ./ShopingCenter/ShopingCenter.sln
       
     steps:
     - uses: actions/checkout@v3
