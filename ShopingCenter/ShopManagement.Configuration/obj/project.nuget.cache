@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n3kQyX1RuHA7bbu02H69h1nupJd2UNLUu1YVhp1+SQRAK8+JUj/cZrew14hvr0HrGk59vWVbJICsH27IL/E4rQ==",
+  "dgSpecHash": "ZOv+5Jo/RFO5TGFux2lDMYQ9H8/qTTfwjGpSHmq8ymj38L8uR8L8+hWL6IPgM8wr07Bd5424AdmiY5K+CbjyhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
+  "projectFilePath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\New Server\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\New Server\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

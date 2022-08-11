@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z8aJa5VXJOdlWVyM72IGnPmHdGfXnfAmS5WJw3N9xAT7gRzRiZfFnVeHrOX9oAhYqCgHwv/SfKILyvYL4/pshA==",
+  "dgSpecHash": "AlSERKa2cDMvvUscOcp3h1xpd0j23QAlODST86CxFvlqbrALm10peSN/y57eNSn5p1y9NPkf5In+CASbU6f3qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\New Server\\source\\repos\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
+  "projectFilePath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\DiscountManagement.Application\\DiscountManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\New Server\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.16\\microsoft.entityframeworkcore.5.0.16.nupkg.sha512",
     "C:\\Users\\New Server\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.16\\microsoft.entityframeworkcore.abstractions.5.0.16.nupkg.sha512",
