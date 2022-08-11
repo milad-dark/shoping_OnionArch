@@ -13,3 +13,18 @@ F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagement.Application.Cont
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.dll
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\obj\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.deps.json
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\bin\Debug\net5.0\0_Framework.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.csproj.CopyComplete
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\obj\Debug\net5.0\refint\ShopManagement.Application.Contracts.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\obj\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application.Contracts\obj\Debug\net5.0\ref\ShopManagement.Application.Contracts.dll

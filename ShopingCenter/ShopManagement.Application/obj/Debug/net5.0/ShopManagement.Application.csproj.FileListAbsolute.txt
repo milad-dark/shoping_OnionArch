@@ -17,3 +17,22 @@ F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.dll
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ref\ShopManagement.Application.dll
 F:\Tuts Solution\Shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.deps.json
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\0_Framework.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\0_Framework.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\bin\Debug\net5.0\ShopManagement.Domain.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.AssemblyReference.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfoInputs.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.AssemblyInfo.cs
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CoreCompileInputs.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.csproj.CopyComplete
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\refint\ShopManagement.Application.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ShopManagement.Application.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\ShopManagement.Application\obj\Debug\net5.0\ref\ShopManagement.Application.dll
