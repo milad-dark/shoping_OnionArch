@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kFDDANVlS4gg5ytGXa68t8MuZ36ZiHNYzM8aKmM1jY80oe+7GQElaSFrT4sfY5WzNLvNg4IaGTWMjvM45om2sQ==",
+  "dgSpecHash": "H0HODUWrKPsqaAcjtDisBo1jwWFIq1PeCtrxAQSKjukR3rm2a99o2g8t7RD+Dg2geuA+hZk2buhu0kWXkOMMig==",
   "success": true,
   "projectFilePath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\ShopManagement.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [
@@ -102,5 +102,12 @@
     "C:\\Users\\New Server\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\New Server\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Infrastructure.EFCore\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

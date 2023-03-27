@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9tzn/Z9tR0fxt/WB17BXHG8ppD1G/EbaXFFxqoUYo5x4GsTPwQXHTDhp8yMXslCujNZZ8kMVdj0HWdJg1DYsAg==",
+  "dgSpecHash": "bE5Eo1yUqfJKcUkZkvBtIqEoJC5STbrppwL7nagjL3974u/aZqKTnkenSCkllNBjFaR23ln0Xa4I7NfpbyGg5A==",
   "success": true,
   "projectFilePath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\01_SiteQuery.csproj",
   "expectedPackageFiles": [
@@ -99,5 +99,12 @@
     "C:\\Users\\New Server\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\New Server\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Projects\\shoping_OnionArch\\ShopingCenter\\01_SiteQuery\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

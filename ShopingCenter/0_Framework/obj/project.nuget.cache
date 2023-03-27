@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IDHQuYda1tcKTYVuuvi9PhFIBMNQ/6r56fdoZMcm3+0Mm0SIXBnEoPJ6oPpV+MiU6MQFiakKxyuZcaE23M0VOw==",
+  "dgSpecHash": "tE5fEBVd2sZUZdnyF/J1N3rx7KptlbeAQ/l+ohMod2m1ulYmdhbjGz1twk5AM5gd3UZjIRxKPkNiw4ujurw5mA==",
   "success": true,
   "projectFilePath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj",
   "expectedPackageFiles": [
@@ -19,5 +19,12 @@
     "C:\\Users\\New Server\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\New Server\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\Projects\\shoping_OnionArch\\ShopingCenter\\0_Framework\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
