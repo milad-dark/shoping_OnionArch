@@ -28,3 +28,5 @@ D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application.Contr
 D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application.Contract\obj\Debug\net5.0\refint\DiscountManagement.Application.Contract.dll
 D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application.Contract\obj\Debug\net5.0\DiscountManagement.Application.Contract.pdb
 D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application.Contract\obj\Debug\net5.0\ref\DiscountManagement.Application.Contract.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application.Contract\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application.Contract\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb

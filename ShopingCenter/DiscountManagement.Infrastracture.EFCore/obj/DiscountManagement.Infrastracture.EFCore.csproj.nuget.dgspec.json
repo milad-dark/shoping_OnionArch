@@ -101,6 +101,9 @@
             "projectReferences": {
               "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj": {
                 "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\0_Framework\\0_Framework.csproj"
+              },
+              "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "D:\\Projects\\shoping_OnionArch\\ShopingCenter\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }

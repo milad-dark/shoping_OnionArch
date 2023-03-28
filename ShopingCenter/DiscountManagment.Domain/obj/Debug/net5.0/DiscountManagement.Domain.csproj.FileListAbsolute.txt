@@ -15,3 +15,5 @@ D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagment.Domain\obj\Debug\n
 D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagment.Domain\obj\Debug\net5.0\refint\DiscountManagement.Domain.dll
 D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagment.Domain\obj\Debug\net5.0\DiscountManagement.Domain.pdb
 D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagment.Domain\obj\Debug\net5.0\ref\DiscountManagement.Domain.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagment.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagment.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb

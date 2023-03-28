@@ -17,3 +17,24 @@ C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\DiscountManagem
 C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\obj\Debug\net5.0\refint\DiscountManagement.Application.dll
 C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.pdb
 C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\obj\Debug\net5.0\ref\DiscountManagement.Application.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.deps.json
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\bin\Debug\net5.0\0_Framework.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Domain.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\bin\Debug\net5.0\0_Framework.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.csproj.AssemblyReference.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.AssemblyInfoInputs.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.AssemblyInfo.cs
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.csproj.CoreCompileInputs.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.csproj.CopyComplete
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\obj\Debug\net5.0\refint\DiscountManagement.Application.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\obj\Debug\net5.0\DiscountManagement.Application.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\obj\Debug\net5.0\ref\DiscountManagement.Application.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Application\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb

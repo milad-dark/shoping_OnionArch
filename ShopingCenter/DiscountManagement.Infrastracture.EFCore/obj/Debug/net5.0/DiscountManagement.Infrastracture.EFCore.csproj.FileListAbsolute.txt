@@ -26,3 +26,31 @@ C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\DiscountManagem
 C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.pdb
 C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.genruntimeconfig.cache
 C:\Users\New Server\source\repos\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\obj\Debug\net5.0\ref\DiscountManagement.Infrastracture.EFCore.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.deps.json
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.runtimeconfig.json
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.runtimeconfig.dev.json
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\0_Framework.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\DiscountManagement.Application.Contract.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\DiscountManagement.Domain.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\ShopManagement.Domain.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\DiscountManagement.Domain.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\ShopManagement.Infrastructure.EFCore.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\0_Framework.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\DiscountManagement.Application.Contract.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\bin\Debug\net5.0\ShopManagement.Domain.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.csproj.AssemblyReference.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.AssemblyInfoInputs.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.AssemblyInfo.cs
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.csproj.CoreCompileInputs.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.csproj.CopyComplete
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\obj\Debug\net5.0\refint\DiscountManagement.Infrastracture.EFCore.dll
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.pdb
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\obj\Debug\net5.0\DiscountManagement.Infrastracture.EFCore.genruntimeconfig.cache
+D:\Projects\shoping_OnionArch\ShopingCenter\DiscountManagement.Infrastracture.EFCore\obj\Debug\net5.0\ref\DiscountManagement.Infrastracture.EFCore.dll

@@ -5,7 +5,6 @@ using DiscountManagement.Infrastracture.EFCore;
 using DiscountManagement.Infrastracture.EFCore.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using System;
 
 namespace DiscountManagement.Configuration
 {

@@ -4,6 +4,7 @@ using DiscountManagement.Application.Contract.CustomerDiscount;
 using DiscountManagement.Domain.CustomerDiscountAgg;
 using ShopManagement.Infrastructure.EFCore;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 
 namespace DiscountManagement.Infrastracture.EFCore.Repository
@@ -27,8 +28,8 @@ namespace DiscountManagement.Infrastracture.EFCore.Repository
                 DiscountRate = x.DiscountRate,
                 ProductId = x.ProductId,
                 Reason = x.Reason,
-                EndDate = x.EndDate.ToFarsi(),
-                StartDate = x.StartDate.ToFarsi(),
+                StartDate = x.StartDate.ToString(CultureInfo.InvariantCulture),
+                EndDate = x.EndDate.ToString(CultureInfo.InvariantCulture),
             }).FirstOrDefault(x => x.Id == id);
         }
 
@@ -46,6 +47,7 @@ namespace DiscountManagement.Infrastracture.EFCore.Repository
                 EndDate = x.EndDate.ToFarsi(),
                 StartDateGr = x.StartDate,
                 EndDateGr = x.EndDate,
+                CreationDate = x.CreationDate.ToFarsi(),
             });
 
             if (searchModel.ProductId > 0)
@@ -53,11 +55,11 @@ namespace DiscountManagement.Infrastracture.EFCore.Repository
 
             if (!string.IsNullOrWhiteSpace(searchModel.StartDate))
             {
-                query = query.Where(x => x.StartDateGr > searchModel.StartDate.ToGeorgianDateTime());
+                query = query.Where(x => x.StartDateGr >= searchModel.StartDate.ToGeorgianDateTime());
             }
             if (!string.IsNullOrWhiteSpace(searchModel.EndDate))
             {
-                query = query.Where(x => x.EndDateGr < searchModel.EndDate.ToGeorgianDateTime());
+                query = query.Where(x => x.EndDateGr <= searchModel.EndDate.ToGeorgianDateTime());
             }
 
             var discounts = query.OrderByDescending(x => x.Id).ToList();
